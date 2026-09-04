@@ -1,7 +1,6 @@
 # V.O.R.T.I.C.E.
-
 ### Volumetric Optical Reality Tracking & Immersive Computational Environment
-> @ Aldair Humberto Martinez Willians
+> @ Aldair Humberto Martinez Williams
 
 ![Status](https://img.shields.io/badge/Status-In%20Development-yellow) 
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
@@ -11,7 +10,10 @@
 
 ---
 
+<img width="1048" height="503" alt="VorticeSystem" src="https://github.com/user-attachments/assets/e7038d43-0b10-4900-bb1c-99d5e319385f" />
+
 ## ✨ Description
+
 **Volumetric Optical Reality Tracking & Immersive Computational Environment (V.O.R.T.I.C.E.)** represents a paradigmatic leap in the visualization and manipulation of immersive data. It is a third-generation holographic interface that transcends the boundaries of traditional visualization, transforming images, documents and data sets into transparent, interactive cubes that come to life in three-dimensional space, manipulable in real time with imperceptible latency. Designed for environments where visual understanding and intuitive interaction are critical — from business intelligence and data analytics to architectural visualization and educational environments — **V.O.R.T.I.C.E.** turns static information into dynamic, explorable experiences.
 
 **Octopus Neuroarchitecture**: Biomimetic Parallel Processing The system finds its inspiration in one of nature's most efficient designs: octopus neuroarchitecture. This cephalopod has a central brain that coordinates intention, while seven peripheral brains distributed in its arms process sensory information and execute actions autonomously and simultaneously. Applying this biological principle to computational processing, **V.O.R.T.I.C.E.** implements a distributed computing architecture
@@ -20,12 +22,12 @@
 
 - **7 Peripheral Brains (Parallel Workers)**: Dedicated sub-processes handling image processing, real-time matrix transformations (night vision, infrared, negative filters), and optical/gestural tracking without impacting the main frame rate.
 
----
 
 ## 🎯 The Problem: The Icon is the Epitaph of an Agonizing Digital Age
 We live surrounded by visual information, but we continue to interact with it through flat lists, static grids, and icons that do not communicate the richness of real content. The way we view photos, videos and documents is anchored in paradigms of the last century. The double click to open, look and close is an outdated ritual that turns browsing into a passive and fragmented act, where 80% of time is wasted on search and only 20% on true analysis. 
 The future has already arrived, but we continue to see it through the lenses of the past. The traditional interface is a filter that hides relationships, hierarchies, and semantic connections between data, limiting our ability to understand complexity.
 
+<img width="1289" height="538" alt="VorticeCubos4" src="https://github.com/user-attachments/assets/45a86057-b7d1-41f0-9106-2aeeca072c8b" />
 
 ## 🔭 The Vision: From Icon to Holographic Experience
 Imagine an environment where multimedia is not stored in lists, but floats in three-dimensional space like tangible objects that you can:
@@ -55,18 +57,7 @@ Applied Design Principles:
 - **Single Responsibility**: Each module has a unique and well-defined purpose
 - **Open/Closed Principle**: Extendable without modifying existing code
 
-```bash
-               +----------------------------------+
-               |    CENTRAL BRAIN (Orchestrator)  |
-               |   OpenGL 3D / State / Interface  |
-               +----------------------------------+
-                              |
-     +------------------------+----------------------------+
-     |                        |                            |
-[Brain 1]                 [Brain 2]                   [Brains 3-7]
-MediaPipe Tracking       OpenCV (cv2)                Optical Filters
-(Gesture Capture)       (Data & Image Ingestion)    (Night, Thermal, Invert)
-```
+<img width="832" height="388" alt="Architect" src="https://github.com/user-attachments/assets/d84e0470-2de3-48d8-8ed4-b594d2bf4fb2" />
 
 ## 🛠 Technical Stack
 - Language: **Python 3.10+**
@@ -121,7 +112,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-## Controles
+## 🎛️ Controles
 
 | Acción | Control |
 |---|---|
@@ -134,11 +125,14 @@ python main.py
 | Alternar ejes | Tecla `A` |
 | Alternar bordes de cubos | Tecla `E` |
 
-## 🗺 Roadmap
+## 🗺️ Roadmap
 - [ ] Integration with Leap Motion sensors for ultra-high precision gesture tracking.
 - [ ] Pipeline optimization via CUDA / PyCUDA for dedicated GPU acceleration across peripheral brains.
 - [ ] Export module for 3D node maps to Augmented Reality (AR/VR) formats.
 
 ## 📄 License
 MIT @ AMW 
-> @ Aldair Humberto Martinez Willians 
+
+<img width="147" height="188" alt="Captura de pantalla 2026-09-04 000239" src="https://github.com/user-attachments/assets/3274e5ee-8385-4721-b6ad-0ef0eb1193fc" />
+
+> @ Aldair Humberto Martinez Williams | Software Developer with Python
