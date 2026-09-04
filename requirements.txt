@@ -1,0 +1,9 @@
+PyQt5==5.15.10
+PyOpenGL==3.1.7
+PyOpenGL-accelerate==3.1.7
+opencv-python==4.10.0.84
+numpy==1.26.4
+
+# Opcional, solo si activas VORTICE_ENABLE_GESTURES=true
+# y decides implementar src/vision/tracker.py:
+# mediapipe==0.10.14
